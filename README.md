@@ -27,8 +27,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-using-html-and-css-a25jFcUbhL)
+- Live Site URL: [Live Site](https://anhvu1012.github.io/Recipe-page/)
 
 ## My process
 
